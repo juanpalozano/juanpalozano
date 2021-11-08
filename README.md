@@ -1,16 +1,61 @@
 ### Hi there 👋
 
-<!--
-**juanpalozano/juanpalozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer with a passion for user interfaces, design and technology.
+My fields of competence are multiple, in particular my aptitude for analysis, creativity and solving complex problems with simple solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>PHP</li>
+  <li>SQL</li>
+</ul>
+
+### Databases
+
+<ul>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>SQLite</li>
+  <li>Mongo DB</li>
+</ul>
+
+### Technologies
+
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>UI Kit</li>
+  <li>Bootstrap</li>
+  <li>jQuery</li>
+  <li>Sequelize</li>
+  <li>Mongoose</li>
+</ul>
+
+### Tools
+
+<ul>
+  <li>Git</li>
+  <li>Sublime Text</li>
+  <li>VS Code</li>
+  <li>Figma</li>
+  <li>Adbe XD</li>
+  <li>Adobe Illustrator</li>
+  <li>Adobe Photoshop</li>
+  <li>Asana</li>
+  <li>Trello</li>
+</ul>
+
+### Contact Me
+
+You can find and get touch with me on these accounts!
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/juanpa-lozano/">LinkedIn</a></li>
+  <li>Email: juanpalozano.dev@gmail.com</li>
+</ul>
