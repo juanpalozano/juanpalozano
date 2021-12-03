@@ -6,8 +6,6 @@ My fields of competence are multiple, in particular my aptitude for analysis, cr
 
 ### Programming Languages
 
-`HTML`
-
 <ul>
   <li>HTML</li>
   <li>CSS</li>
